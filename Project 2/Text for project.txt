@@ -1,0 +1,4 @@
+# Napisati asemblerski program za x86 koji vrši sortiranje po rastućem redosledu niza celih brojeva.
+# Niz ima 10 elemenata, a elemente niza je dozvoljeno uneti direktno u asemblerski kod.
+# Ako nešto nije definisano usvojiti razumnu pretpostavku.
+# Preporučuje se korišćenje MASM asemblera ili emu8086 emulatora, ali je dozvoljeno koristiti i bilo koji drugi.
